@@ -1,1 +1,1 @@
-git exemplo
+Eu amo estudar programação em Java!
